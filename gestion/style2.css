@@ -1,0 +1,119 @@
+body
+{
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    background : url("image/fond3.jpg") no-repeat;
+    background-position: fixed;
+    font-family: Arial, "Times New Roman", Times, sans-serif;
+}
+
+a
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+#ma_photo
+{
+    width: 100px;
+    height: 68px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+    background: url("image/esti.PNG") no-repeat;
+}
+
+#en_tete
+{
+    height: 109px;
+    color: #0099FF;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 2px dotted #F7E444;
+}
+
+#menu
+{
+    width: 20%;
+    float: left;
+}
+
+.sous_menu
+{
+    padding: 5px;
+    border-radius: 25px;
+    margin-top: 20px;
+    background-color: #1B2F5F;
+    color: rgb(0, 0, 0);
+    border: 2px dotted rgb(179, 255, 0);
+}
+
+.sous_menu h3
+{
+    border-radius: 25px;
+    color: #C03CEA;
+    text-align: center;
+}
+
+.sous_menu li {
+    background-color: #3B4DDA; 
+    border-radius: 30px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.sous_menu li:hover{
+    background-color: #F18F26;
+}
+
+#corps
+{
+    border-radius: 25px;
+    margin-left: 22%;
+    margin-top: 20px;
+    padding: 10px;
+
+    border: 2px dotted #F7E444;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+}
+
+#corps h2
+{
+    border-radius: 25px;
+    text-align: center;
+    color: #0099FF;
+}
+
+#corps h2:hover
+{
+    font-size: 25px;
+    border-radius: 25px;
+    text-align: center;
+    color: #FA8072;
+}
+
+#pied_de_page
+{
+    border-radius: 25px;
+    clear: left;
+    margin-top: 30px;
+    padding: 5px;
+    color: #E3AB57;
+    background-color: #CD5C5C;
+    text-align: center;
+    border: 2px dotted #F7E444;
+}

@@ -1,0 +1,77 @@
+div#content{
+	padding-top: 60px;
+}
+
+div#content div{
+	height: 420px;
+	display: inline-block;
+	width: 20%;
+	border: 1px solid #f1f1f1;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+header{
+	padding-left: 400px;
+	font-size: 50px;
+	color: #1A5276;
+	font-family: Trebuchet MS;
+}
+
+div#content div.inscription{
+	background-image: url("img/header1.jpg");
+	border-radius: 50px;
+	margin-left: 100px;
+}
+
+div#content div.inscription:hover{
+	background-image: url("img/header2.jpg");
+	border-radius: 50px;
+	margin-left: 100px;
+}
+
+div#content div.connexion{
+	background-image: url("img/header1.jpg");
+	vertical-align: top;
+	border-radius: 50px;
+	margin-left: 800px;
+}
+
+div#content div.connexion:hover{
+	background-image: url("img/header2.jpg");
+	vertical-align: top;
+	border-radius: 50px;
+	margin-left: 800px;
+}
+
+h2{
+	padding-left: 100px;
+	font-size: 30px;
+}
+
+form{
+	padding-left: 50px;
+	color: white;
+}
+
+body{
+	background-image: url("img/lune.jpg");
+}
+
+form #inom{
+	border-radius: 50px;
+}
+
+form #imdp{
+	border-radius: 50px;
+}
+
+form #mdp_conf{
+	border-radius: 50px;
+}
+
+form #cnom{
+	border-radius: 50px;
+}
+
+form #cmdp{
+	border-radius: 50px;

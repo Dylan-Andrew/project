@@ -1,0 +1,105 @@
+body
+{
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    background : url("image/fond2.jpg") no-repeat;
+    font-family: Arial, "Times New Roman", Times, sans-serif;
+}
+
+#mbr1
+{
+    border-radius: 25px;
+    margin-left: 22%;
+    margin-right: 22%;
+    padding: 10px;
+
+    border: 2px dotted #F7E444;
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 187, 0, 0.486);
+    text-align: center;
+}
+
+#mbr2
+{
+    border-radius: 25px;
+    margin-left: 22%;
+    margin-right: 22%;
+    margin-top: 20px;
+    padding: 10px;
+
+    border: 2px dotted #F7E444;
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 187, 0, 0.486);
+    text-align: center;
+}
+
+#mbr3
+{
+    border-radius: 25px;
+    margin-left: 22%;
+    margin-right: 22%;
+    margin-top: 20px;
+    padding: 10px;
+
+    border: 2px dotted #F7E444;
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 187, 0, 0.486);
+    text-align: center;
+}
+
+#mbr4
+{
+    border-radius: 25px;
+    margin-left: 22%;
+    margin-right: 22%;
+    margin-top: 20px;
+    padding: 10px;
+
+    border: 2px dotted #F7E444;
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 187, 0, 0.486);
+    text-align: center;
+}
+
+#exp
+{
+    border-radius: 25px;
+    margin-left: 22%;
+    margin-right: 22%;
+    margin-top: 20px;
+    padding: 10px;
+
+    border: 2px dotted #F7E444;
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 187, 0, 0.486);
+    text-align: center;
+}
+
+#bt
+{
+    border-radius: 25px;
+    margin-left: 22%;
+    margin-right: 22%;
+    margin-top: 20px;
+    padding: 10px;
+
+    border: 2px dotted #F7E444;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 17, 255, 0.486);
+    text-align: center; 
+}
+
+#otl
+{
+    border-radius: 25px;
+    margin-left: 22%;
+    margin-right: 22%;
+    margin-top: 20px;
+    padding: 10px;
+
+    border: 2px dotted #F7E444;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 17, 255, 0.486);
+    text-align: center;
+}
